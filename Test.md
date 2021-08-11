@@ -1,6 +1,6 @@
 This is a test file that I created to check out how links work within Github.
 [Readme](README.md)
 [Test](./module2_solution/Test2.md)
-[Testolderversion](0a12b1f)
+[Testolderversion](./commit/0a12b1f)
 
 #random
